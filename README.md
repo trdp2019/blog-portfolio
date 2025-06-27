@@ -116,4 +116,4 @@ MIT License. Feel free to use and modify this project.
 
 ## 🙋‍♂️ Author
 
-Made with ❤️ by [Tridip](https://github.com/tridip2019)
+Made with ❤️ by [Tridip](https://github.com/trdp2019)
